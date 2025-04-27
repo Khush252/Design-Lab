@@ -1,0 +1,5 @@
+bash
+transformers
+datasets
+nltk
+rouge-score
