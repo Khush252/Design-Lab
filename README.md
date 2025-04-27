@@ -39,8 +39,11 @@ The goal was to design a pipeline where questions about images are answered via 
 ```
 
 How to Run
+
 Clone this repository or download the notebook.
 
 Install required libraries:
+
 pip install transformers datasets nltk rouge-score
+
 Open cot_vqa_gpt2_colab.ipynb and run all cells sequentially.
